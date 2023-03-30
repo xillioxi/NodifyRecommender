@@ -1,3 +1,6 @@
+**Figma**
+https://www.figma.com/files/project/66520272/Team-project?fuid=1150927876895841324
+
 **MySQL database**
 
 Database Schema
