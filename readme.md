@@ -1,8 +1,8 @@
-**Figma**
+##**Figma**
 
 https://www.figma.com/files/project/66520272/Team-project?fuid=1150927876895841324
 
-**MySQL database**
+##**MySQL database**
 
 Database Schema
 https://dbdiagram.io/d/63e0985f296d97641d7ea4ec
