@@ -18,3 +18,5 @@ Password: SSGT51001
 
 ** Yolov8 commands **
 >yolo task=detect mode=predict model=best.pt show=True conf=0.5
+
+![alt text]("stack_diagram.jpg")
